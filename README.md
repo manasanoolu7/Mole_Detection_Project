@@ -1,7 +1,6 @@
 # Mole_Detection_Project
 
-
-[SkinCare](https://mole-detection2.herokuapp.com/) is an application that uses Convolutional Neural Networks (CNN) to classify images of skin moles as malignant or benign. 
+It is an application that uses Convolutional Neural Networks (CNN) to classify images of skin moles as malignant or benign. 
 
 ## Objectives
 
